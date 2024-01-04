@@ -1,0 +1,19 @@
+Contest Link : https://codeforces.com/contest/977
+
+A. Wrong Subtraction
+
+
+B. Two-gram
+
+
+C. Less or Equal
+
+
+D. Divide by three, multiply by 2
+
+
+E. Cyclic Components
+
+
+F. Consecutive Subsequence
+
