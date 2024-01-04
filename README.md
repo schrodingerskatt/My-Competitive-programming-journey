@@ -4,9 +4,5 @@ In this repo, I will be sharing my CP 2024 journey, list of problems which i wil
   1. CSES : https://cses.fi/
   2. Codeforces : https://codeforces.com
   3. Codechef : https://www.codechef.com
-  4. ACD Ladders : https://www.acodedaily.com/
-  5. Meta HackerCup : https://www.facebook.com/codingcompetitions/hacker-cup
-  6. NOIP : https://www.luogu.com.cn/problem/P1012
-
-     
-I hope one day, I become a rated coder !!
+  
+I hope one day, I become a yellow rated coder.
